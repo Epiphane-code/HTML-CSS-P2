@@ -14,13 +14,13 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  justify-content: center;
   align-items: center;
   color: #333;
   font-weight: bold;
   font-family: Arial, sans-serif;
   background-color: #fafafa;
   gap: 20px;
+  padding-top: 10vh;
 }
 .container {
   width: 50vw;
