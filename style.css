@@ -3,6 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+:root {
+  --purple: #f5f1f7;
+  --light-purple: #8f33ad;
+  --light-pink: #c9a2db;
+  --yellow: #f5c518;
+  --gray: #f3efF2;
+}
 body {
   display: flex;
   flex-direction: column;
@@ -49,8 +56,11 @@ p {
   display: flex;
   align-items: center;
   padding: 5px;
-  background-color: rgb(243, 239, 242);
+  background-color: #f5f1f7;
   border-radius: 5px;
+}
+.header-right-item:hover {
+  background-color: #dbdada;
 }
 .header-right .header-right-item:nth-child(1) {
   margin-left: 10%;
@@ -72,6 +82,7 @@ p {
 }
 .rose {
   background-color: #4b0a63;
+  min-height: 7vw;
   border-radius: 10px;
   border-radius: 8px;
   padding: 10px;
@@ -101,7 +112,6 @@ h3 {
 }
 .apprecied {
   color: #c9a2db;
-  font-size: 10px;
 }
 .identite {
   gap: 2px;
