@@ -42,7 +42,7 @@ body {
   gap: 20px;
 }
 .header-left {
-  flex: 1;
+  flex: 1.2;
 }
 p {
   color: gray;
@@ -55,9 +55,10 @@ p {
 .header-right .header-right-item {
   display: flex;
   align-items: center;
-  padding: 5px;
   background-color: #f5f1f7;
   border-radius: 5px;
+  padding: 10px;
+  gap: 10px;
 }
 .header-right-item:hover {
   background-color: #dbdada;
@@ -121,12 +122,10 @@ h3 {
   font-size: 1.1rem;
 }
 .fa-star {
-  color: #f5c518;
   size: 1rem;
 }
-.header-right-item {
-  gap: 10px;
-}
+
+
 .card-content {
   font-size: 0.95rem;
 }
