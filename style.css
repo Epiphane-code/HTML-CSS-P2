@@ -42,7 +42,7 @@ body {
   gap: 20px;
 }
 .header-left {
-  flex: 1.5;
+  flex: 1;
 }
 p {
   color: gray;
@@ -76,6 +76,7 @@ p {
 }
 .doublon {
   gap: 20px;
+  padding-top: 50px;
 }
 .doublon .rose {
   flex: 1;
@@ -129,6 +130,9 @@ h3 {
 .card-content {
   font-size: 0.95rem;
 }
+.star{
+  width: 7rem;
+}
 @media screen and (max-width: 768px) {
   .header,
   .doublon,
@@ -142,10 +146,6 @@ h3 {
   
   }
  
-  .doublon, .bas{
-    margin: 15px 17vw 0 17vw;
-  }
-  
   .header-left{
     align-items: center;
     text-align: center;
