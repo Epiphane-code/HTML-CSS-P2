@@ -36,4 +36,4 @@ L’objectif est de rassurer les visiteurs et d’augmenter la confiance grâce 
 
  Veuillez fournir un lien <strong>Github Pages</strong> en plus de votre <strong>dépot Github</strong>
 
-![Aperçu du projet Social Proof](./img/README.png)
+![Aperçu du projet Social Proof](./img/Red.png)
