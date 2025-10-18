@@ -33,7 +33,9 @@ L’objectif est de rassurer les visiteurs et d’augmenter la confiance grâce 
  Organisation des fichiers
 
  Code propre et commenté
+ 
 
- Veuillez fournir un lien <strong>Github Pages</strong> en plus de votre <strong>dépot Github</strong>
+ [voir github-page ici](https://epiphano.github.io/Html-Css/HTML-CSS-P2/)
+
 
 ![Aperçu du projet Social Proof](./img/Red.png)
