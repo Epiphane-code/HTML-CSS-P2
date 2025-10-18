@@ -16,7 +16,7 @@ body {
   background-color: #fafafa;
 }
 
-h2 {
+h1 {
   size: 2rem;
   font-weight: bold;
   color: #3d0a4e;
@@ -166,7 +166,7 @@ h3 {
 }
 
 .fa-star {
-  color: #FFD43B;
+  color: orange;
   size: 1rem;
 }
 .fa-user {
