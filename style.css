@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 body {
@@ -167,10 +166,12 @@ h3 {
 }
 
 .fa-star {
-  color: #f5c518;
+  color: #FFD43B;
   size: 1rem;
 }
-
+.fa-user {
+  color: #74C0FC;
+}
 .card-content {
   font-size: 10px;
 }
