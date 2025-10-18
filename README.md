@@ -35,7 +35,7 @@ L’objectif est de rassurer les visiteurs et d’augmenter la confiance grâce 
  Code propre et commenté
  
 
- [voir github-page ici](https://epiphano.github.io/Html-Css/Social-Prof/)
+ [voir github-page ici](https://epiphano.github.io/Social-Prof/)
 
 
 ![Aperçu du projet Social Proof](./img/Red.png)
